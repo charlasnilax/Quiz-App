@@ -1,0 +1,33 @@
+
+  form {
+    width: 1100px;
+    margin: auto;
+    text-align: left;
+    background-color: rgb(22, 0, 43);
+  
+  }
+
+  .question {
+    
+    margin-right: 200px;
+    color: rgb(245, 246, 248);
+    margin-left: 80px;
+  }
+  #heading {
+text-align: center;
+width: 1100px;
+margin: auto;
+color: aliceblue;
+  }
+hr{
+  color: rgb(245, 239, 239);
+}
+button{
+  cursor: pointer;
+  font-size: 20px;
+  border-radius: 5px;
+  margin-left: 80px;
+  margin-top: 40px;
+  margin-bottom: 50px;
+  background-color: darkorange;
+}
